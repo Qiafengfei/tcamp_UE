@@ -1,0 +1,34 @@
+# Unreal Engine
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+Build/
+
+# Visual Studio
+.vs/
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Rider / JetBrains
+.idea/
+*.sln.DotSettings.user
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Automation
+*.commandlet.log
